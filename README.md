@@ -9,10 +9,11 @@ I primarily write in…
 - HTML (technically is just web page syntax tho)
 - and some TOML for config
 
-My Primary Deployments are
+My Primary Deployments are…
 
 - Node
 - Serve (Raw HTML)
 - Worked (Cloudflare Workers)
 
-
+## While You’re Here
+Check out some of my projects!
