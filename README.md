@@ -1,6 +1,6 @@
 # Abt me
 I’m a high school student working on side projects in his free-time looking to advance web technology.
-Belives in open web standards, and internet freedom (at least lack of censorship).
+Belives in open web standards, and internet freedom.
 
 I primarily write in…
 
