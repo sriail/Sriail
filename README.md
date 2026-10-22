@@ -16,5 +16,4 @@ My Primary Deployment Platforms are…
 - Worked (Cloudflare Workers) And Cloudflare Pages
 
 ## While You’re Here…
-Check out some of my projects!
-or give me a follow if you like my work!
+Check out some of my projects or give me a follow if you like my work!
